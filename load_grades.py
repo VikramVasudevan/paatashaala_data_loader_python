@@ -3,7 +3,6 @@ from firebase_admin import credentials, firestore
 import os
 import json
 from typing import List, Dict
-from google.cloud import firestore
 from pydantic import BaseModel
 
 # ---------- MODELS ----------
@@ -53,7 +52,7 @@ def batch_insert_grades(grades: List[Dict], collection: str = "grades"):
     # --- Setup Firestore ---
     cred = credentials.Certificate("dest-key.json")
     firebase_admin.initialize_app(cred)
-    db = firestore.Client()
+    db = firestore.client()
     batch = db.batch()
 
     for grade in grades:
