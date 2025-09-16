@@ -1,0 +1,152 @@
+[
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Calculus"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Statistics"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Algebra"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Geometry"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Trigonometry"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Biology"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Chemistry"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Physics"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Environmental Science"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "English",
+    "topic": "Literature Analysis"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "English",
+    "topic": "Composition"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "English",
+    "topic": "Rhetoric"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Social Studies",
+    "topic": "History"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Social Studies",
+    "topic": "Government"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Social Studies",
+    "topic": "Economics"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Social Studies",
+    "topic": "Geography"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Foreign Language",
+    "topic": "Spanish"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Foreign Language",
+    "topic": "French"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Foreign Language",
+    "topic": "German"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Art",
+    "topic": "Visual Arts"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Art",
+    "topic": "Music"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Physical Education",
+    "topic": "Health"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Physical Education",
+    "topic": "Fitness"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Technology",
+    "topic": "Computer Science"
+  },
+  {
+    "grade_level": "grade_12",
+    "education_stage": "high_school",
+    "subject": "Technology",
+    "topic": "Information Technology"
+  }
+]

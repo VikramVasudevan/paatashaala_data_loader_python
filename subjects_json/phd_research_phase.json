@@ -1,0 +1,272 @@
+[
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Computer Science",
+    "topic": "Machine Learning"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Computer Science",
+    "topic": "Artificial Intelligence"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Computer Science",
+    "topic": "Data Mining"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Computer Science",
+    "topic": "Computer Vision"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Computer Science",
+    "topic": "Natural Language Processing"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Computer Science",
+    "topic": "Cybersecurity"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Computer Science",
+    "topic": "Human-Computer Interaction"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Computer Science",
+    "topic": "Software Engineering"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Computer Science",
+    "topic": "Distributed Systems"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Computer Science",
+    "topic": "Blockchain Technology"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Mathematics",
+    "topic": "Algebraic Geometry"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Mathematics",
+    "topic": "Topology"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Mathematics",
+    "topic": "Number Theory"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Mathematics",
+    "topic": "Combinatorics"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Mathematics",
+    "topic": "Real Analysis"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Physics",
+    "topic": "Statistical Mechanics"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Physics",
+    "topic": "Condensed Matter Physics"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Physics",
+    "topic": "Astrophysics"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Physics",
+    "topic": "Particle Physics"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Biology",
+    "topic": "Genetics"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Biology",
+    "topic": "Molecular Biology"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Biology",
+    "topic": "Ecology"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Biology",
+    "topic": "Evolutionary Biology"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Biology",
+    "topic": "Neuroscience"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Chemistry",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Chemistry",
+    "topic": "Analytical Chemistry"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Chemistry",
+    "topic": "Biochemistry"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Engineering",
+    "topic": "Mechanical Engineering"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Engineering",
+    "topic": "Electrical Engineering"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Engineering",
+    "topic": "Civil Engineering"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Engineering",
+    "topic": "Chemical Engineering"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Engineering",
+    "topic": "Biomedical Engineering"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Social Sciences",
+    "topic": "Sociology"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Social Sciences",
+    "topic": "Psychology"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Social Sciences",
+    "topic": "Political Science"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Social Sciences",
+    "topic": "Anthropology"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Social Sciences",
+    "topic": "Economics"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Humanities",
+    "topic": "Philosophy"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Humanities",
+    "topic": "History"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Humanities",
+    "topic": "Literature"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Humanities",
+    "topic": "Linguistics"
+  },
+  {
+    "grade_level": "research_phase",
+    "education_stage": "phd",
+    "subject": "Humanities",
+    "topic": "Cultural Studies"
+  }
+]

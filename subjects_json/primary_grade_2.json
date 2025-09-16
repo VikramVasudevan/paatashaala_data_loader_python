@@ -1,0 +1,182 @@
+[
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Addition"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Subtraction"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Multiplication"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Division"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Place Value"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Measurement"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Geometry"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Time"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Money"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Phonics"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Vocabulary Development"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Writing"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Grammar"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Life Science"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Earth Science"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Physical Science"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Scientific Inquiry"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "Community and Citizenship"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "History"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "Geography"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "Culture"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Art",
+    "topic": "Drawing"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Art",
+    "topic": "Painting"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Art",
+    "topic": "Crafts"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Physical Education",
+    "topic": "Team Sports"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Physical Education",
+    "topic": "Fitness Activities"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Music",
+    "topic": "Singing"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Music",
+    "topic": "Rhythm"
+  },
+  {
+    "grade_level": "grade_2",
+    "education_stage": "primary",
+    "subject": "Music",
+    "topic": "Instruments"
+  }
+]

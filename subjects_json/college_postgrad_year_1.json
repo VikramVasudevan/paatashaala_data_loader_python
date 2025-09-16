@@ -1,0 +1,200 @@
+[
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Business Administration",
+    "topic": "Organizational Behavior"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Business Administration",
+    "topic": "Strategic Management"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Business Administration",
+    "topic": "Marketing Principles"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Business Administration",
+    "topic": "Financial Management"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Business Administration",
+    "topic": "Operations Management"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Economics",
+    "topic": "Microeconomics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Economics",
+    "topic": "Macroeconomics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Economics",
+    "topic": "Econometrics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Economics",
+    "topic": "International Economics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Psychology",
+    "topic": "Cognitive Psychology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Psychology",
+    "topic": "Social Psychology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Psychology",
+    "topic": "Developmental Psychology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Psychology",
+    "topic": "Clinical Psychology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Data Structures"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Algorithms"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Software Engineering"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Database Management"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Engineering",
+    "topic": "Thermodynamics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Engineering",
+    "topic": "Fluid Mechanics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Engineering",
+    "topic": "Materials Science"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Engineering",
+    "topic": "Structural Analysis"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Biology",
+    "topic": "Cell Biology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Biology",
+    "topic": "Genetics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Biology",
+    "topic": "Ecology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Biology",
+    "topic": "Evolutionary Biology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Mathematics",
+    "topic": "Calculus"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Mathematics",
+    "topic": "Statistics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Mathematics",
+    "topic": "Discrete Mathematics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Philosophy",
+    "topic": "Ethics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Philosophy",
+    "topic": "Logic"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Philosophy",
+    "topic": "Metaphysics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_postgrad",
+    "subject": "Philosophy",
+    "topic": "Epistemology"
+  }
+]

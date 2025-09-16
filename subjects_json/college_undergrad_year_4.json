@@ -1,0 +1,386 @@
+[
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Artificial Intelligence"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Machine Learning"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Data Structures and Algorithms"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Web Development"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Software Engineering"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Cybersecurity"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Abstract Algebra"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Real Analysis"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Complex Analysis"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Topology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Numerical Methods"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Electromagnetism"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Classical Mechanics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Optics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Analytical Chemistry"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Molecular Biology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Genetics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Ecology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Microbiology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "Microeconomics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "Macroeconomics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "Econometrics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "International Economics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Cognitive Psychology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Developmental Psychology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Social Psychology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Clinical Psychology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "History",
+    "topic": "Modern History"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "History",
+    "topic": "Ancient History"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "History",
+    "topic": "World History"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "History",
+    "topic": "Cultural History"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Ethics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Metaphysics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Epistemology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Political Philosophy"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Engineering",
+    "topic": "Mechanical Engineering"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Engineering",
+    "topic": "Electrical Engineering"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Engineering",
+    "topic": "Civil Engineering"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Engineering",
+    "topic": "Chemical Engineering"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Sociology",
+    "topic": "Social Theory"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Sociology",
+    "topic": "Cultural Sociology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Sociology",
+    "topic": "Urban Sociology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Sociology",
+    "topic": "Political Sociology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Environmental Science",
+    "topic": "Sustainability"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Environmental Science",
+    "topic": "Conservation Biology"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Environmental Science",
+    "topic": "Ecological Restoration"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Environmental Science",
+    "topic": "Environmental Policy"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Business",
+    "topic": "Marketing"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Business",
+    "topic": "Finance"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Business",
+    "topic": "Management"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Business",
+    "topic": "Entrepreneurship"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Statistics",
+    "topic": "Descriptive Statistics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Statistics",
+    "topic": "Inferential Statistics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Statistics",
+    "topic": "Regression Analysis"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Statistics",
+    "topic": "Statistical Modeling"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Linguistics",
+    "topic": "Phonetics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Linguistics",
+    "topic": "Syntax"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Linguistics",
+    "topic": "Semantics"
+  },
+  {
+    "grade_level": "year_4",
+    "education_stage": "college_undergrad",
+    "subject": "Linguistics",
+    "topic": "Pragmatics"
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Machine Learning"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Data Structures and Algorithms"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Software Engineering"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Database Management Systems"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Web Development"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Artificial Intelligence"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Cloud Computing"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Computer Science",
+    "topic": "Cybersecurity"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Mathematics",
+    "topic": "Advanced Calculus"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Mathematics",
+    "topic": "Statistics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Mathematics",
+    "topic": "Differential Equations"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Mathematics",
+    "topic": "Numerical Methods"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Physics",
+    "topic": "Electromagnetism"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Physics",
+    "topic": "Classical Mechanics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Biology",
+    "topic": "Molecular Biology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Biology",
+    "topic": "Genetics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Biology",
+    "topic": "Cell Biology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Biology",
+    "topic": "Ecology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Chemistry",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Chemistry",
+    "topic": "Analytical Chemistry"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Economics",
+    "topic": "Microeconomics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Economics",
+    "topic": "Macroeconomics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Economics",
+    "topic": "Econometrics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Economics",
+    "topic": "International Economics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Psychology",
+    "topic": "Cognitive Psychology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Psychology",
+    "topic": "Developmental Psychology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Psychology",
+    "topic": "Social Psychology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Psychology",
+    "topic": "Clinical Psychology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Business",
+    "topic": "Marketing Management"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Business",
+    "topic": "Financial Management"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Business",
+    "topic": "Operations Management"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Business",
+    "topic": "Strategic Management"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Engineering",
+    "topic": "Thermal Engineering"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Engineering",
+    "topic": "Structural Engineering"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Engineering",
+    "topic": "Electrical Engineering"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_postgrad",
+    "subject": "Engineering",
+    "topic": "Mechanical Engineering"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Cell Biology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Genetics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Ecology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Evolution"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Calculus II"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Statistics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Classical Mechanics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Electromagnetism"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Data Structures"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Algorithms"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Database Systems"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "Microeconomics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "Macroeconomics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "International Economics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Developmental Psychology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Cognitive Psychology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Social Psychology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Sociology",
+    "topic": "Social Theory"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Sociology",
+    "topic": "Research Methods"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Sociology",
+    "topic": "Cultural Sociology"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Political Science",
+    "topic": "Comparative Politics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Political Science",
+    "topic": "International Relations"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Political Science",
+    "topic": "Political Theory"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Ethics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Logic"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Metaphysics"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Art History",
+    "topic": "Renaissance Art"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Art History",
+    "topic": "Modern Art"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Art History",
+    "topic": "Contemporary Art"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Literature",
+    "topic": "American Literature"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Literature",
+    "topic": "British Literature"
+  },
+  {
+    "grade_level": "year_2",
+    "education_stage": "college_undergrad",
+    "subject": "Literature",
+    "topic": "World Literature"
+  }
+]

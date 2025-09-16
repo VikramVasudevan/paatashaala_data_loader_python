@@ -1,0 +1,188 @@
+[
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Algebra"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Geometry"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Trigonometry"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Statistics"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Probability"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Biology"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Chemistry"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Physics"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Earth Science"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "English Language Arts",
+    "topic": "Literary Analysis"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "English Language Arts",
+    "topic": "Writing Skills"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "English Language Arts",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "English Language Arts",
+    "topic": "Research Skills"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "History",
+    "topic": "World History"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "History",
+    "topic": "U.S. History"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "History",
+    "topic": "Civics"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "History",
+    "topic": "Geography"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Foreign Language",
+    "topic": "Spanish Language"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Foreign Language",
+    "topic": "French Language"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Foreign Language",
+    "topic": "German Language"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Physical Education",
+    "topic": "Fitness"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Physical Education",
+    "topic": "Team Sports"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Physical Education",
+    "topic": "Health Education"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Art",
+    "topic": "Visual Arts"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Art",
+    "topic": "Music"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Art",
+    "topic": "Theater"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Technology",
+    "topic": "Computer Science"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Technology",
+    "topic": "Digital Literacy"
+  },
+  {
+    "grade_level": "grade_10",
+    "education_stage": "high_school",
+    "subject": "Technology",
+    "topic": "Engineering"
+  },
+  {
+    "grade_level" : "grade_10",
+    "education_stage" : "high_school",
+    "subject" : "Foreign Language",
+    "topic": "Tamil Language"
+  },
+  {
+    "education_stage" : "high_school",
+    "grade_level" : "grade_10",
+    "subject" : "Foreign Language",
+    "topic": "Hindi Language"
+  }
+]

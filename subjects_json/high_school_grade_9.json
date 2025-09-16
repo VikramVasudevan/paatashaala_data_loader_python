@@ -1,0 +1,170 @@
+[
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Algebra"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Geometry"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Statistics"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Mathematics",
+    "topic": "Probability"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Biology"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Chemistry"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Physics"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Science",
+    "topic": "Earth Science"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "English Language Arts",
+    "topic": "Literary Analysis"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "English Language Arts",
+    "topic": "Writing Skills"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "English Language Arts",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "English Language Arts",
+    "topic": "Vocabulary Development"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Social Studies",
+    "topic": "World History"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Social Studies",
+    "topic": "Civics"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Social Studies",
+    "topic": "Geography"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Social Studies",
+    "topic": "Economics"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Physical Education",
+    "topic": "Fitness and Health"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Physical Education",
+    "topic": "Team Sports"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Physical Education",
+    "topic": "Individual Sports"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Art",
+    "topic": "Visual Arts"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Art",
+    "topic": "Art History"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Art",
+    "topic": "Art Techniques"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Music",
+    "topic": "Music Theory"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Music",
+    "topic": "Performance"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Music",
+    "topic": "Music History"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Technology",
+    "topic": "Computer Science"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Technology",
+    "topic": "Digital Literacy"
+  },
+  {
+    "grade_level": "grade_9",
+    "education_stage": "high_school",
+    "subject": "Technology",
+    "topic": "Engineering Principles"
+  }
+]

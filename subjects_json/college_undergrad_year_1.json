@@ -1,0 +1,182 @@
+[
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Cell Biology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Genetics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Evolution"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Ecology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "General Chemistry"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Calculus I"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Statistics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Classical Mechanics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Waves and Oscillations"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Introduction to Programming"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Data Structures"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Algorithms"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "English",
+    "topic": "Composition"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "English",
+    "topic": "Literature Analysis"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "History",
+    "topic": "World History"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "History",
+    "topic": "American History"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Social Sciences",
+    "topic": "Psychology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Social Sciences",
+    "topic": "Sociology"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "Microeconomics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "Macroeconomics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Introduction to Philosophy"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Ethics"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Art",
+    "topic": "Art History"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Art",
+    "topic": "Visual Arts"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Music",
+    "topic": "Music Theory"
+  },
+  {
+    "grade_level": "year_1",
+    "education_stage": "college_undergrad",
+    "subject": "Music",
+    "topic": "Music History"
+  }
+]

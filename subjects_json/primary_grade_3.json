@@ -1,0 +1,158 @@
+[
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Addition and Subtraction"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Multiplication and Division"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Fractions"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Measurement"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Geometry"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Data and Probability"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Writing Skills"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Grammar and Punctuation"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Vocabulary Development"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Life Science"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Earth Science"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Physical Science"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Scientific Inquiry"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "Community and Citizenship"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "Geography"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "History"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "Economics"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Art",
+    "topic": "Visual Arts"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Art",
+    "topic": "Art History"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Art",
+    "topic": "Art Techniques"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Physical Education",
+    "topic": "Team Sports"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Physical Education",
+    "topic": "Fitness and Health"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Music",
+    "topic": "Music Theory"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Music",
+    "topic": "Singing and Vocal Skills"
+  },
+  {
+    "grade_level": "grade_3",
+    "education_stage": "primary",
+    "subject": "Music",
+    "topic": "Instrumental Skills"
+  }
+]

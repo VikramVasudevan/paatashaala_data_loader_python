@@ -1,0 +1,248 @@
+[
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Data Structures"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Algorithms"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Database Management Systems"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Software Engineering"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Computer Science",
+    "topic": "Web Development"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Probability and Statistics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Differential Equations"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Mathematics",
+    "topic": "Real Analysis"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Classical Mechanics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Electromagnetism"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Chemistry",
+    "topic": "Analytical Chemistry"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Cell Biology"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Genetics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Ecology"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Biology",
+    "topic": "Evolutionary Biology"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "Microeconomics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "Macroeconomics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "Econometrics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Economics",
+    "topic": "International Economics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Cognitive Psychology"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Developmental Psychology"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Social Psychology"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Psychology",
+    "topic": "Abnormal Psychology"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "History",
+    "topic": "Modern History"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "History",
+    "topic": "Ancient Civilizations"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "History",
+    "topic": "World History"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "History",
+    "topic": "Cultural History"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Ethics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Metaphysics"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Epistemology"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Philosophy",
+    "topic": "Political Philosophy"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Art",
+    "topic": "Art History"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Art",
+    "topic": "Visual Arts"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Art",
+    "topic": "Performing Arts"
+  },
+  {
+    "grade_level": "year_3",
+    "education_stage": "college_undergrad",
+    "subject": "Art",
+    "topic": "Art Theory"
+  }
+]

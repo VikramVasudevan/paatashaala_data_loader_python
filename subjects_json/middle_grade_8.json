@@ -1,0 +1,200 @@
+[
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Mathematics",
+    "topic": "Algebra"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Mathematics",
+    "topic": "Geometry"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Mathematics",
+    "topic": "Statistics"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Mathematics",
+    "topic": "Probability"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Mathematics",
+    "topic": "Functions"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Science",
+    "topic": "Physical Science"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Science",
+    "topic": "Life Science"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Science",
+    "topic": "Earth Science"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Science",
+    "topic": "Scientific Method"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "English Language Arts",
+    "topic": "Literary Analysis"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "English Language Arts",
+    "topic": "Writing Skills"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "English Language Arts",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "English Language Arts",
+    "topic": "Vocabulary Development"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Social Studies",
+    "topic": "U.S. History"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Social Studies",
+    "topic": "World History"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Social Studies",
+    "topic": "Geography"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Social Studies",
+    "topic": "Civics"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Health Education",
+    "topic": "Nutrition"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Health Education",
+    "topic": "Mental Health"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Health Education",
+    "topic": "Physical Fitness"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Health Education",
+    "topic": "Personal Safety"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Art",
+    "topic": "Visual Arts"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Art",
+    "topic": "Art History"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Art",
+    "topic": "Art Techniques"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Physical Education",
+    "topic": "Team Sports"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Physical Education",
+    "topic": "Individual Sports"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Physical Education",
+    "topic": "Health-related Fitness"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Technology",
+    "topic": "Digital Literacy"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Technology",
+    "topic": "Basic Coding"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Technology",
+    "topic": "Robotics"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Foreign Language",
+    "topic": "Basic Vocabulary"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Foreign Language",
+    "topic": "Grammar"
+  },
+  {
+    "grade_level": "grade_8",
+    "education_stage": "middle",
+    "subject": "Foreign Language",
+    "topic": "Conversational Skills"
+  }
+]

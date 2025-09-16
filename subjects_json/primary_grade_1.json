@@ -1,0 +1,134 @@
+[
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Numbers and Counting"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Addition and Subtraction"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Shapes and Geometry"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Measurement"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Mathematics",
+    "topic": "Patterns and Sorting"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Phonemic Awareness"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Writing Basics"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "English Language Arts",
+    "topic": "Vocabulary Development"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Living Things"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Earth and Space"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Physical Science"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Science",
+    "topic": "Weather"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "Community and Citizenship"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "History and Culture"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Social Studies",
+    "topic": "Geography"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Art",
+    "topic": "Color and Design"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Art",
+    "topic": "Drawing and Painting"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Art",
+    "topic": "Crafts"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Physical Education",
+    "topic": "Movement Skills"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Physical Education",
+    "topic": "Team Games"
+  },
+  {
+    "grade_level": "grade_1",
+    "education_stage": "primary",
+    "subject": "Physical Education",
+    "topic": "Health and Fitness"
+  }
+]
